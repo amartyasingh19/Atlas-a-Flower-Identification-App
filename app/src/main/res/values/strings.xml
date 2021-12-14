@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flower_Detection_Example</string>
+    <string name="run_model">Running the model...</string>
+    <string name="detect">Detect</string>
+</resources>
